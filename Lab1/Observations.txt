@@ -1,0 +1,11 @@
+Task-1
+Observations:
+Time taken in linear, binary search with iteration and binary search with recursion is about to 0.
+
+Task-2
+Observations:
+data-file-1 time = Approximately 0.
+data-file-2 time = Approximately 0.
+data-file-3 time = Approximately 0.
+data-file-4 time = Approximately 0.
+data-file-5 time = Approximately 0.
